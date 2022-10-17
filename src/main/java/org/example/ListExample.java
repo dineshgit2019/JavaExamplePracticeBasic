@@ -16,7 +16,7 @@ public class ListExample {
             System.out.println(iterator.next());
 
         }
-
+        System.out.println(l1.size());
 
     }
 }

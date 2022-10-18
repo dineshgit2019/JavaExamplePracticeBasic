@@ -1,0 +1,3 @@
+# JavaExamplePracticeBasic
+
+Java basic example 
